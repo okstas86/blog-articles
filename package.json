@@ -28,6 +28,6 @@
     "eslint-plugin-nuxt": "^4.0.0",
     "eslint-plugin-vue": "^9.5.1",
     "prettier": "^2.7.1",
-    "vite": "^4.4.9"
+    "webpack": "^4.46.0"
   }
 }

@@ -33,5 +33,12 @@ export default {
   modules: [],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    publicPath: '/dist/',
+
+    filenames: {
+      app: 'bundle.js',
+      css: 'styles.css',
+    },
+  },
 }

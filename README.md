@@ -1,5 +1,11 @@
 # blog-articles
 
+
+
+
+<img align="left" alt="screen1" width="1100"  src="./static/main.png" />
+<img align="left" alt="screen1" width="1100"  src="./static/form.png" />
+
 ## Build Setup
 
 ```bash
